@@ -1,0 +1,8 @@
+name:Anirudh,userid:river_4322112,rank:540,wins:1,losses:0
+name:Raghav,userid:zenith_3603213,rank:475,wins:0,losses:1
+name:Anirudh,userid:horizon_6673680,rank:540,wins:1,losses:0
+name:Raghav,userid:valor_2932224,rank:475,wins:0,losses:1
+name:ani,userid:ocean_1788925,rank:540,wins:1,losses:0
+name:kot,userid:yearn_7950178,rank:475,wins:0,losses:1
+name:Ani34,userid:jungle_1095662,rank:520,wins:2,losses:0
+name:Ani,userid:jungle_4730265,rank:488,wins:0,losses:2
